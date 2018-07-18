@@ -1,6 +1,6 @@
 ## Daily-react-042-user-generator-app 
 
-> Challenge: create a user data generator app.
+> Challenge: create a user generator app.
 
 Work in progress: https://github.com/jamal7x7/daily-react-042-user-generator-app
 

@@ -15,7 +15,7 @@ Roadmap:
 
 ---
 
-![Alt text](src/images/daily-react-042-user-generator-app?raw=true "App UI")
+![Alt text](/src/images/daily-react-042-user-generator-app.png?raw=true "App UI")
 
 ---
 
